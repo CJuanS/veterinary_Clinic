@@ -1,0 +1,14 @@
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\bin\Debug\net8.0\veterinary_Clinic.exe
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\bin\Debug\net8.0\veterinary_Clinic.deps.json
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\bin\Debug\net8.0\veterinary_Clinic.runtimeconfig.json
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\bin\Debug\net8.0\veterinary_Clinic.dll
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\bin\Debug\net8.0\veterinary_Clinic.pdb
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\obj\Debug\net8.0\veterinary_Clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\obj\Debug\net8.0\veterinary_Clinic.AssemblyInfoInputs.cache
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\obj\Debug\net8.0\veterinary_Clinic.AssemblyInfo.cs
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\obj\Debug\net8.0\veterinary_Clinic.csproj.CoreCompileInputs.cache
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\obj\Debug\net8.0\veterinary_Clinic.dll
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\obj\Debug\net8.0\refint\veterinary_Clinic.dll
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\obj\Debug\net8.0\veterinary_Clinic.pdb
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\obj\Debug\net8.0\veterinary_Clinic.genruntimeconfig.cache
+C:\Users\xmisa\source\repos\veterinary_Clinic\veterinary_Clinic\obj\Debug\net8.0\ref\veterinary_Clinic.dll
